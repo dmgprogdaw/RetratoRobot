@@ -77,13 +77,13 @@ public class Main {
 		}
 		
 		switch (opcionNariz) {
-			case 1: System.out.println("@  J  @");
+			case 1: System.out.println("@   J   @");
 				break;
-			case 2: System.out.println("{  \"  }");
+			case 2: System.out.println("{   \"   }");
 				break;
-			case 3: System.out.println("[  j  ]");
+			case 3: System.out.println("[   j   ]");
 				break;
-			case 4: System.out.println("<  -  >");
+			case 4: System.out.println("<   -   >");
 		}			
 				
 		switch (opcionBoca) {
